@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"blo",
+				"blogContainer"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"con",
+				"contactInfo"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"footer",
+				"footerContactbar"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"d",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"backgrou",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"hmtl",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jack/Logic Design/framework/grid/grid.scss",
+		"/Users/jack/Downloads/wordpress 3/sftp-config.json",
+		"/Users/jack/Downloads/wordpress 3/wp-content/themes/autovault/sftp-config.json",
+		"/Users/jack/Downloads/wordpress 3/wp-content/themes/autovault/index.php",
+		"/Users/jack/Downloads/wordpress 3/wp-content/themes/autovault/assets/css/wp.css",
+		"/Users/jack/Downloads/wordpress 3/wp-content/themes/autovault/index3.php",
+		"/Volumes/data/Misc. Files/development/wp.css",
+		"/Users/jack/Library/Caches/Cleanup At Startup/Transmit/9EA4F79F-2779-43A3-A7B6-A87152AA2CB0/wp-config.php",
+		"/Users/jack/Desktop/song_request.php",
+		"/Applications/XAMPP/xamppfiles/etc/extra/httpd-vhosts.conf",
+		"/private/var/folders/kl/rtc8s8dx3mq4yw3pggzsbkl00000gn/T/4ea0998c-bfb2-49ad-a77f-44eb4a9cf1bd/web/wp-content/themes/hunterclub/footer.php",
+		"/private/var/folders/kl/rtc8s8dx3mq4yw3pggzsbkl00000gn/T/4ea0998c-bfb2-49ad-a77f-44eb4a9cf1bd/web/wp-settings.php",
+		"/private/var/folders/kl/rtc8s8dx3mq4yw3pggzsbkl00000gn/T/4ea0998c-bfb2-49ad-a77f-44eb4a9cf1bd/web/wp-config.php",
+		"/private/var/folders/kl/rtc8s8dx3mq4yw3pggzsbkl00000gn/T/4ea0998c-bfb2-49ad-a77f-44eb4a9cf1bd/web/.htaccess",
+		"/private/var/folders/kl/rtc8s8dx3mq4yw3pggzsbkl00000gn/T/d2ecb9f0-c4d3-4660-9318-017d4244fbf7/httpdocs/.htaccess",
+		"/Users/jack/Desktop/Ready/wp-config.php",
+		"/private/var/folders/kl/rtc8s8dx3mq4yw3pggzsbkl00000gn/T/549d8e11-940c-4b4a-8b46-1b39b0dd2166/subdomains/showhorse/httpdocs/wp-content/themes/classifiedstheme/style.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"href",
+			"stylesheet",
+			"min",
+			"button",
+			"id=",
+			"123123",
+			"200",
+			"000000",
+			"/>\n",
+			"OpenSansRegular",
+			"jackcutting",
+			"http://jackcutting.co.uk",
+			"http://jackcuttingdesign.co.uk",
+			"jackcutting",
+			"</b>",
+			"<b>",
+			"</p>",
+			"<p style=\"padding-left: 30px;\"><b>",
+			";",
+			"}",
+			"caret"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://www.hunterclub.org.uk",
+			"",
+			"</li>",
+			"<li>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true
+}

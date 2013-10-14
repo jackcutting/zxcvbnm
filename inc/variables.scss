@@ -1,0 +1,6 @@
+// Grid Variables
+
+$grid_cols: 12;
+$grid_gutter_width: 20px;
+$grid_page_width: 960px;
+$grid_col_width: $grid_page_width / $grid_cols;

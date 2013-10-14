@@ -1,0 +1,37 @@
+*, *:before, *:after{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.container{
+    width: $grid_page_width;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.row{
+    margin-right: (($grid_gutter_width / 2) - $grid_gutter_width);
+    margin-left: (($grid_gutter_width / 2) - $grid_gutter_width);
+    @include clearfix();
+}
+[class^="col-"]{
+    position: relative;
+    min-height: 1px;
+    padding-right: ($grid_gutter_width / 2);
+    padding-left: ($grid_gutter_width / 2);
+    float: left;
+}
+
+@for $i from 1 through $grid_cols {
+    .col-#{$i} {
+        width: percentage((($grid_col_width / ($grid_page_width / 100)) * $i) / 100);
+    }
+}
+@for $i from 1 through ($grid_cols - 1) {
+    .col-offset-#{$i} {
+        margin-left: percentage((($grid_col_width / ($grid_page_width / 100)) * $i) / 100);
+    }
+}
+.clearfix{
+    @include clearfix();
+}

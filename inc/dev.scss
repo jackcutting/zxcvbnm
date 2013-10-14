@@ -1,0 +1,15 @@
+.container{
+	background: #a3caff;
+	&.grid [class^="col-"]{
+		line-height: 100px;
+		text-align: center;
+	}
+}
+[class^="col-"]{
+	background: #fca3ff;
+	border-left: 1px solid #a3caff;
+	min-height: 100px;
+}
+.row{
+	border-bottom: 1px solid #a3caff;
+}
